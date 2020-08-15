@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with [playnloot](https://github.com/limbu-timbu/playnloot)
 - 💬 Ask me about web, android, ux design, and lame jokes
 - 📫 How to reach me: [Instagram](https://instagram.com/seebham) & [LinkedIn](https://www.linkedin.com/in/seebham/)
-- ⚡ Fun fact: My little finger is too little than avg XD
+- ⚡ Fun fact: I was wearing face masks even before covid19 😆
 ##### Thank you github for this new awesome feature ❤️
