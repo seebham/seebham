@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning NodeJS 🚀
 - 🤔 I’m looking for help with [pebbles-app](https://github.com/seebham/pebbles-app)
 - 💬 Ask me about web, android, ux design, and lame jokes
-- 📫 How to reach me: [Instagram](https://instagram.com/seebham) & [LinkedIn](https://www.linkedin.com/in/seebham/)
+- 📫 How to reach me: [Twitter](https://twitter.com/seebhams) & [LinkedIn](https://www.linkedin.com/in/seebham/)
 - ⚡ Fun fact: I was wearing face masks even before covid19 😆
 ##### Thank you github for this new awesome feature ❤️
