@@ -6,4 +6,4 @@
 - 💬 Ask me about web, android, ux design, and lame jokes
 - 📫 How to reach me: [Twitter](https://twitter.com/seebhams) & [LinkedIn](https://www.linkedin.com/in/seebham/)
 - ⚡ Fun fact: I was wearing face masks even before covid19 😆
-#### Know more about me on https://seebham.codes/ ❤️
+#### Know more about me on https://seebham.dev/ ❤️
